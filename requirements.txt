@@ -7,7 +7,5 @@ plotly
 ipywidgets
 dash
 jupyter-dash
-jupyter
 jupyterlab
-bokeh
 vega_datasets
