@@ -4,8 +4,11 @@ pandas
 seaborn
 altair
 plotly
+plotly-express
 ipywidgets
 dash
 jupyter-dash
 jupyterlab
 vega_datasets
+scipy
+scikit-learn
